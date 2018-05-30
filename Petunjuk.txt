@@ -1,0 +1,7 @@
+-Menu Manajer
+ -Username : manajer
+ -Password : manajer
+
+-Menu Pelaksana
+ -Username : pelaksana
+ -Password : pelaksana
